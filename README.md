@@ -3,6 +3,8 @@
 ## Free playgrounds
 
 * 70B-chat by Yuvraj at Hugging Face: https://huggingface.co/spaces/ysharma/Explore_llamav2_with_TGI
+* 13B-chat by Hugging Face: https://huggingface.co/spaces/huggingface-projects/llama-2-13b-chat
+* 7B-chat by Hugging Face: https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat
 * 7B-chat, 13B-chat and 70B-chat by a16z: https://llama2.ai
 * 13B-chat by [Pietro](https://twitter.com/skirano/status/1681381051237556224): https://llama-2.replit.app
 
